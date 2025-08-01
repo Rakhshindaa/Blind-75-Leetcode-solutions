@@ -1,6 +1,6 @@
 # 🧠 Blind 75 LeetCode Solutions
 
-This repository contains my personal solutions to the Blind 75 — a curated list of 75 essential coding problems commonly asked in technical interviews. Solving these helps improve problem-solving skills and prepares you for real-world coding challenges.
+This repository contains my personal solutions to the Blind 75 - a curated list of 75 essential coding problems commonly asked in technical interviews. Solving these helps improve problem-solving skills and prepares you for real-world coding challenges.
 
 ---
 
